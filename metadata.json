@@ -1,0 +1,9 @@
+{
+    "uuid": "run-or-raise@lobodol",
+    "name": "Run or Raise",
+    "version": "1.0.0",
+    "description": "Raise a window if already running, otherwise launch the application. Configure shortcuts in ~/.config/run-or-raise/shortcuts.conf",
+    "url": "https://github.com/lobodol/run-or-raise-cinnamon",
+    "cinnamon-version": ["6.0", "6.2"],
+    "author": "lobodol"
+}
